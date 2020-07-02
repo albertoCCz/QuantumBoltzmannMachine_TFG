@@ -1,1 +1,2 @@
 # QuantumBoltzmannMachine_TFG
+In this repository I pretend to study and simmulate a Quantum Boltzmann Machine. In order to do so, I will be using the Dwave quantum computers. The main theoretical source from which I am learning about this class of quantum algorithm is [Mohammad H. Amin, Evgeny Andriyash, Jason Rolfe, Bohdan Kulchytskyy, and Roger Melko, "Quantum Boltzmann Machine"; Phys. Rev. X 8, 021050.](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.021050)
