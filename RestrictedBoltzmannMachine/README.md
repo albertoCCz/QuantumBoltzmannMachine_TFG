@@ -18,4 +18,4 @@ The results indicate the following:
 
 - It seems that the gaussian distribution is the only one that allowed the model to improve during the simulation. In the case of the uniform distribution the reason why it can not improve is obvious, but not in the case of the exponential distribution. An explanation for this would requires of further research.
 
-[Error depending on the distribution](https://github.com/albertoCCz/QuantumBoltzmannMachine_TFG/blob/master/RestrictedBoltzmannMachine/Studies/Images/Distribution_methods.png)
+![Error depending on the distribution](https://github.com/albertoCCz/QuantumBoltzmannMachine_TFG/blob/master/RestrictedBoltzmannMachine/Studies/Images/Distribution_methods.png)
