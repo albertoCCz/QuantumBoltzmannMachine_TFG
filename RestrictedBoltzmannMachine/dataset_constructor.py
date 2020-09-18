@@ -42,7 +42,7 @@ class datasetConstructor():
 
 		n_config = 2 ** self.n_components
 
-		## First method
+		## First method: 'Brute force' method
 		start_1 = time.time()
 		# Generate all possible binary states with n_components bits
 		# dec_states = [i for i in range(n_config)]
@@ -64,7 +64,7 @@ class datasetConstructor():
 
 		end_1 = time.time()
 
-		## Second method
+		## Second method: 'Binary search' method
 		start_2 = time.time()
 		# Generate intervals
 		intervals = []
