@@ -1,4 +1,4 @@
-from help_classes import *
+from utils import *
 
 
 sigmoid = Sigmoid()
