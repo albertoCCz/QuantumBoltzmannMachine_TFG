@@ -16,7 +16,7 @@ class datasetConstructor():
 		int Number of components/dimension of each sample
 	method:
 		string Probability distribution to sample from. Possibilities are:
-		'gaussian', 'uniform'
+		'gaussian', 'uniform' or 'exponential'
 	"""
 
 	def __init__(self, n_samples=100, n_components=10, method='gaussian'):
