@@ -1,6 +1,6 @@
 ## Restricted Boltzmann Machine
 
-In this section we make use of the [Erik Linder-Norén's code](https://github.com/eriklindernoren/ML-From-Scratch) for the Restricted Boltzmann Machine in order to understand in a practical way its functionig. In order to use this model, we developt a method to generate a dataset of binary vectors which follow a particular distribution, being the possibilities a gaussian/normal distribution, a exponential distribution or a uniform distribution.
+In this section we make use of the [Erik Linder-Norén's code](https://github.com/eriklindernoren/ML-From-Scratch) for the Restricted Boltzmann Machine in order to understand in a practical way its functionig. In order to use this model, we developt a method to generate a dataset of binary vectors which follow a particular distribution, being the possibilities a gaussian/normal distribution, an exponential distribution or an uniform distribution.
 
 After doing this, we study briefly the next few points:
 - The time it takes for each construction dataset method ('Brute force' and 'Binary search' methods) to construct the dataset based on the number of components of the binary vectors.
